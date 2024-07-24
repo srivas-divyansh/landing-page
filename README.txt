@@ -1,33 +1,28 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+This is a personal portfolio website showcasing the projects and skills of Divyansh Srivastava. The website is built using HTML and CSS, based on the Strata template by HTML5 UP.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+## Features
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Responsive design
+- About me section
+- Project showcase
+- Contact form
+- Social media links
 
-(* = Not included)
+## Usage
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+To use this template for your own portfolio:
 
-AJ
-aj@lkn.io | @ajlkn
+1. Replace the profile picture in `images/profile-pic.jpg` with your own.
+2. Update the personal information in the HTML file, including your name, about me section, and project details.
+3. Modify the contact information and social media links as needed.
+4. Add your own projects to the "Projects" section.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Credits
 
+Design template: [Strata](https://html5up.net/strata) by HTML5 UP
 
-Credits:
+## License
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This template is free for personal and commercial use under the CCA 3.0 license. See [html5up.net/license](https://html5up.net/license) for more details.
